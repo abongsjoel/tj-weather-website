@@ -41,5 +41,5 @@ All you need to do is input your location or any location you wish to get weathe
   if you like this project!</p>
 
 ## License
-  <p>This project is <a href="../Features/LICENSE">MIT</a> licensed.</p>
+  <p>This project is <a href="../master/LICENSE">MIT</a> licensed.</p>
 
