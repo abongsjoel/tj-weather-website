@@ -9,7 +9,7 @@ All you need to do is input your location or any location you wish to get weathe
 
 ## Live Demo 
 
-- [Visit Page](https://abongsjoel.github.io/tj-calculator/)
+- [Visit Page](https://tj-amazing-weather-app.herokuapp.com/)
 
 ## Built With
 
