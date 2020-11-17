@@ -1,11 +1,15 @@
 
 # TJ Weather Website
 
-> In this project I build a simple website that provides weather information given a location.
+> In this project I built a simple website that provides weather information when given a location.
 
 ![screenshot](../master/screenshot.png)
 
-All you need to do is input your location or any location you wish to get weather information about into the search bar and you get a impressive information about the weather of your given location
+The site uses data from mapbox.com and darksky.net to give you accurate and reliable information about the weather of your chosen location. The site is built using Nodejs and the Express server and its hosted on heroku.
+
+All you need to do is input your location or any location you wish to get weather information about into the search bar and you get a impressive information about the weather of your given location.
+
+
 
 ## Live Demo 
 
