@@ -26,6 +26,19 @@ All you need to do is input your location or any location you wish to get weathe
 
 -Nodejs
 
+## Running the Application
+
+To run this application locally, after clonning it, run 
+```
+npm install
+```
+
+then run 
+
+```
+npm start
+```
+
 ## Author
 
 👤 **Chi A. Joel**
