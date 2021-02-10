@@ -46,6 +46,12 @@ npm start
 - Twitter: [@thierryjoel10](https://twitter.com/ThierryJoel10)
 - LinkedIn: [Chi Abongwa Joel](https://www.linkedin.com/in/chi-abongwa-joel-b4285a97/)
 
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/abongsjoel/ruby-bubble-sort/issues/).
+
 ## Acknowledgments
 
 - [Andrew Mead](https://www.udemy.com/user/andrewmead/)
